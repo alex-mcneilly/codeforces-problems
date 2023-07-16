@@ -16,6 +16,6 @@ int main() {
 }
 
 bool matrixCheck(int[][] matrix, count) {
-  bool 
-  return ;
+  bool isChecked = true;
+  return isChecked;
 }
