@@ -7,14 +7,15 @@ bool matrixCheck(int[][] matrix, count);
 int main() {
 
   int[][] my_matrix;
-  int count;
-  bool check = matrixCheck(my_matrix, 
+  int my_count;
+  bool check = matrixCheck(my_matrix, my_count);
 
   
 
   return 0;
 }
 
-bool matrixCheck() {
+bool matrixCheck(int[][] matrix, count) {
+  bool 
   return ;
 }
