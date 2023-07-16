@@ -4,5 +4,8 @@
 
 int main() {
 
+  int[][] matrix;
+  
+
   return 0;
 }
