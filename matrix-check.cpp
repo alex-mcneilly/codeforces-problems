@@ -6,9 +6,9 @@ bool matrixCheck(int[][] matrix, count);
 
 int main() {
 
-  int[][] matrix;
+  int[][] my_matrix;
   int count;
-  bool check;
+  bool check = matrixCheck(my_matrix, 
 
   
 
