@@ -5,7 +5,7 @@
 int main() {
 
   int[][] matrix;
-  
+  int count;
 
   return 0;
 }
