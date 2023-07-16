@@ -2,7 +2,7 @@
 #include <cmath>
 #include <vector>
 
-bool matrixCheck(int[][] matrix, );
+bool matrixCheck(int[][] matrix, count);
 
 int main() {
 
@@ -10,7 +10,11 @@ int main() {
   int count;
   bool check;
 
+  
+
   return 0;
 }
 
-bool
+bool matrixCheck() {
+  return ;
+}
