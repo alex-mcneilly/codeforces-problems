@@ -2,12 +2,13 @@
 #include <cmath>
 #include <vector>
 
-bool matrixCheck(int[][] matrix, int count, flag);
+bool matrixCheck(int[][] matrix, int count, int flag);
 
 int main() {
 
-  int[][] my_matrix;
+  int[][] my_matrix = {{},{},{}};
   int my_count;
+  int my_flag
   bool check = 
 
   
