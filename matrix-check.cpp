@@ -8,7 +8,7 @@ int main() {
 
   int[][] my_matrix;
   int my_count;
-  bool check = matrixCheck(my_matrix, my_count);
+  bool check = 
 
   
 
