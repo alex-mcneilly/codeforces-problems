@@ -1,6 +1,5 @@
 #include <iostream>
 #include <cmath>
-#include <vector>
 
 bool matrixCheck(int[][] matrix, int count, int flag);
 
